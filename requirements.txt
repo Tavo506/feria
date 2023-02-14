@@ -1,0 +1,4 @@
+flet~=0.4.0
+pylint~=2.16.2
+pytest~=7.2.1
+pytest-sugar~=0.9.6
